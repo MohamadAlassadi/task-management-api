@@ -1,0 +1,9 @@
+{
+    "User": true,
+    "Team": true,
+    "Project": true,
+    "TeamUser": true,
+    "Task": true,
+    "Notification": true,
+    "Auth": true
+}
